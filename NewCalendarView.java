@@ -1,3 +1,5 @@
+package com.n1k0lai.calendarwidget
+
 import android.app.Service;
 import android.content.Context;
 import android.content.res.TypedArray;
