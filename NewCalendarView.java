@@ -1,5 +1,3 @@
-package com.nplusnapps.latr;
-
 import android.app.Service;
 import android.content.Context;
 import android.content.res.TypedArray;
