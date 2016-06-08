@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarView">
+        <attr name="calendarViewStyle" format="reference"/>
+        <attr name="showWeekNumber" format="boolean"/>
+        <attr name="firstDayOfWeek" format="integer"/>
+        <attr name="shownWeekCount" format="integer"/>
+        <attr name="minDate" format="string"/>
+        <attr name="maxDate" format="string"/>
+        <attr name="setInitialDate" format="boolean"/>
+        <attr name="selectedWeekBackgroundColor" format="color|reference"/>
+        <attr name="focusedMonthDateColor" format="color|reference"/>
+        <attr name="unfocusedMonthDateColor" format="color|reference"/>
+        <attr name="weekSeparatorLineColor" format="color|reference"/>
+        <attr name="weekNumberColor" format="color|reference"/>
+        <attr name="selectedWeekNumberColor" format="color|reference"/>
+        <attr name="selectedDateArrowsColor" format="color|reference"/>
+        <attr name="weekdayColor" format="color|reference"/>
+        <attr name="weekendColor" format="color|reference"/>
+        <attr name="dividerColor" format="color|reference"/>
+        <attr name="dateTextAppearance" format="reference"/>
+        <attr name="weekDayTextAppearance" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="DateTextAppearance">
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+</resources>
