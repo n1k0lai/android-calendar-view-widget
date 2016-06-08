@@ -6,4 +6,5 @@ Based on <code>android.widget.CalendarView</code> version 4.0.1_r1
 * Fixed the Year 2038 problem which affected the month header.
 * You can now get and set the calendar time zone.
 * The list view state is saved and restored correctly.
+* Added accessibility features for Google TalkBack.
 * Multiple visual improvements.
